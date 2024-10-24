@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">IMC App</string>
+
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="result">Your result</string>
+    <string name="height_initial_value">100 cm</string>
+    <string name="calculate">Calculate</string>
+    <string name="recalculate">Recalculate</string>
+    <string name="error">Error</string>
+
+    <string name="description_underweight">You are below your ideal weight</string>
+    <string name="result_underweight">Underweight</string>
+    <string name="description_normal">You are at your ideal weight</string>
+    <string name="result_normal">Normal</string>
+    <string name="description_overweight">You are above your ideal weight</string>
+    <string name="result_overweight">Overweight</string>
+    <string name="description_obesity">You weigh much more than you should</string>
+    <string name="result_obesity">Obesity</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="app_background">#020724</color>
+    <color name="selected_component_background">#06A5BA</color>
+    <color name="unselected_component_background">#184045</color>
+    <color name="button_background">#8540AF</color>
+    <color name="text">#E5F2F4</color>
+
+    <color name="color_underweight">#E6E620</color>
+    <color name="color_normal">#33CA0D</color>
+    <color name="color_overweight">#E97611</color>
+    <color name="color_obesity">#ED0808</color>
+</resources>
